@@ -1,0 +1,1 @@
+CREATE DATABASE dispatcher_db;
