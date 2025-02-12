@@ -18,11 +18,11 @@ A CLI-based emergency response system with real-time incident tracking and respo
 
 ## Main Menu Options:
 
-📝 Log Emergency Call
-📋 View Pending Incidents
-👥 Assign Responder
-🔄 Update Incident Status
-🚪 Exit System
+- 📝 Log Emergency Call
+- 📋 View Pending Incidents
+- 👥 Assign Responder
+- 🔄 Update Incident Status
+- 🚪 Exit System
 
 The system will automatically:
 Create database tables on first run
